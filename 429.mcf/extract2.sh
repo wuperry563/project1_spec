@@ -1,4 +1,4 @@
-sh ./runGem5.sh $1 $2 $3 $4 $5 $6 $7
+sh ./runGem52.sh $1 $2 $3 $4 $5 $6 $7
 
 INPUT_FILE=./m5out/stats.txt
 
@@ -29,7 +29,7 @@ l1d_assoc ${4:-2}
 l1i_assoc ${5:-2} 
 l2_assoc ${6:-4} 
 cacheline_size ${7:-64}
-CPI $CPI" >> out.txt
+CPI $CPI" >> out2.txt
 
 
 exit

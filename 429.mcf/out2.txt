@@ -1,0 +1,1773 @@
+DMISS:89182
+l1d_size 16kB 
+l1i_size 16kB 
+l2_size 1MB 
+l1d_assoc 1 
+l1i_assoc 1 
+l2_assoc 4 
+cacheline_size 32
+CPI 1.24670283845
+DMISS:6425
+l1d_size 16kB 
+l1i_size 16kB 
+l2_size 1MB 
+l1d_assoc 1 
+l1i_assoc 1 
+l2_assoc 4 
+cacheline_size 64
+CPI 1.30510233809
+DMISS:
+l1d_size 16kB 
+l1i_size 16kB 
+l2_size 1MB 
+l1d_assoc 1 
+l1i_assoc 1 
+l2_assoc 4 
+cacheline_size 128
+CPI 
+DMISS:
+l1d_size 16kB 
+l1i_size 16kB 
+l2_size 1MB 
+l1d_assoc 2 
+l1i_assoc 2 
+l2_assoc 4 
+cacheline_size 32
+CPI 
+DMISS:
+l1d_size 16kB 
+l1i_size 16kB 
+l2_size 1MB 
+l1d_assoc 2 
+l1i_assoc 2 
+l2_assoc 4 
+cacheline_size 64
+CPI 
+DMISS:49809
+l1d_size 16kB 
+l1i_size 16kB 
+l2_size 1MB 
+l1d_assoc 1 
+l1i_assoc 1 
+l2_assoc 4 
+cacheline_size 32
+CPI 1.253324
+DMISS:49809
+l1d_size 16kB 
+l1i_size 16kB 
+l2_size 1MB 
+l1d_assoc 1 
+l1i_assoc 1 
+l2_assoc 4 
+cacheline_size 64
+CPI 1.253324
+DMISS:49809
+l1d_size 16kB 
+l1i_size 16kB 
+l2_size 1MB 
+l1d_assoc 1 
+l1i_assoc 1 
+l2_assoc 4 
+cacheline_size 128
+CPI 1.2533252
+DMISS:26734
+l1d_size 16kB 
+l1i_size 16kB 
+l2_size 1MB 
+l1d_assoc 2 
+l1i_assoc 2 
+l2_assoc 4 
+cacheline_size 32
+CPI 1.225374
+DMISS:26734
+l1d_size 16kB 
+l1i_size 16kB 
+l2_size 1MB 
+l1d_assoc 2 
+l1i_assoc 2 
+l2_assoc 4 
+cacheline_size 64
+CPI 1.225374
+DMISS:26734
+l1d_size 16kB 
+l1i_size 16kB 
+l2_size 1MB 
+l1d_assoc 2 
+l1i_assoc 2 
+l2_assoc 4 
+cacheline_size 128
+CPI 1.2253752
+DMISS:19031
+l1d_size 16kB 
+l1i_size 16kB 
+l2_size 1MB 
+l1d_assoc 4 
+l1i_assoc 4 
+l2_assoc 4 
+cacheline_size 32
+CPI 1.2155804
+DMISS:19031
+l1d_size 16kB 
+l1i_size 16kB 
+l2_size 1MB 
+l1d_assoc 4 
+l1i_assoc 4 
+l2_assoc 4 
+cacheline_size 64
+CPI 1.2155804
+DMISS:19031
+l1d_size 16kB 
+l1i_size 16kB 
+l2_size 1MB 
+l1d_assoc 4 
+l1i_assoc 4 
+l2_assoc 4 
+cacheline_size 128
+CPI 1.2155816
+DMISS:18989
+l1d_size 16kB 
+l1i_size 16kB 
+l2_size 1MB 
+l1d_assoc 8 
+l1i_assoc 8 
+l2_assoc 4 
+cacheline_size 32
+CPI 1.21553
+DMISS:18989
+l1d_size 16kB 
+l1i_size 16kB 
+l2_size 1MB 
+l1d_assoc 8 
+l1i_assoc 8 
+l2_assoc 4 
+cacheline_size 64
+CPI 1.21553
+DMISS:18989
+l1d_size 16kB 
+l1i_size 16kB 
+l2_size 1MB 
+l1d_assoc 8 
+l1i_assoc 8 
+l2_assoc 4 
+cacheline_size 128
+CPI 1.2155312
+DMISS:49809
+l1d_size 16kB 
+l1i_size 32kB 
+l2_size 1MB 
+l1d_assoc 1 
+l1i_assoc 1 
+l2_assoc 4 
+cacheline_size 32
+CPI 1.2533096
+DMISS:49809
+l1d_size 16kB 
+l1i_size 32kB 
+l2_size 1MB 
+l1d_assoc 1 
+l1i_assoc 1 
+l2_assoc 4 
+cacheline_size 64
+CPI 1.2533096
+DMISS:49809
+l1d_size 16kB 
+l1i_size 32kB 
+l2_size 1MB 
+l1d_assoc 1 
+l1i_assoc 1 
+l2_assoc 4 
+cacheline_size 128
+CPI 1.2533096
+DMISS:26734
+l1d_size 16kB 
+l1i_size 32kB 
+l2_size 1MB 
+l1d_assoc 2 
+l1i_assoc 2 
+l2_assoc 4 
+cacheline_size 32
+CPI 1.2253596
+DMISS:26734
+l1d_size 16kB 
+l1i_size 32kB 
+l2_size 1MB 
+l1d_assoc 2 
+l1i_assoc 2 
+l2_assoc 4 
+cacheline_size 64
+CPI 1.2253596
+DMISS:26734
+l1d_size 16kB 
+l1i_size 32kB 
+l2_size 1MB 
+l1d_assoc 2 
+l1i_assoc 2 
+l2_assoc 4 
+cacheline_size 128
+CPI 1.2253596
+DMISS:19031
+l1d_size 16kB 
+l1i_size 32kB 
+l2_size 1MB 
+l1d_assoc 4 
+l1i_assoc 4 
+l2_assoc 4 
+cacheline_size 32
+CPI 1.215566
+DMISS:19031
+l1d_size 16kB 
+l1i_size 32kB 
+l2_size 1MB 
+l1d_assoc 4 
+l1i_assoc 4 
+l2_assoc 4 
+cacheline_size 64
+CPI 1.215566
+DMISS:19031
+l1d_size 16kB 
+l1i_size 32kB 
+l2_size 1MB 
+l1d_assoc 4 
+l1i_assoc 4 
+l2_assoc 4 
+cacheline_size 128
+CPI 1.215566
+DMISS:18989
+l1d_size 16kB 
+l1i_size 32kB 
+l2_size 1MB 
+l1d_assoc 8 
+l1i_assoc 8 
+l2_assoc 4 
+cacheline_size 32
+CPI 1.2155156
+DMISS:18989
+l1d_size 16kB 
+l1i_size 32kB 
+l2_size 1MB 
+l1d_assoc 8 
+l1i_assoc 8 
+l2_assoc 4 
+cacheline_size 64
+CPI 1.2155156
+DMISS:18989
+l1d_size 16kB 
+l1i_size 32kB 
+l2_size 1MB 
+l1d_assoc 8 
+l1i_assoc 8 
+l2_assoc 4 
+cacheline_size 128
+CPI 1.2155156
+DMISS:49809
+l1d_size 16kB 
+l1i_size 64kB 
+l2_size 1MB 
+l1d_assoc 1 
+l1i_assoc 1 
+l2_assoc 4 
+cacheline_size 32
+CPI 1.2533096
+DMISS:49809
+l1d_size 16kB 
+l1i_size 64kB 
+l2_size 1MB 
+l1d_assoc 1 
+l1i_assoc 1 
+l2_assoc 4 
+cacheline_size 64
+CPI 1.2533096
+DMISS:49809
+l1d_size 16kB 
+l1i_size 64kB 
+l2_size 1MB 
+l1d_assoc 1 
+l1i_assoc 1 
+l2_assoc 4 
+cacheline_size 128
+CPI 1.2533096
+DMISS:26734
+l1d_size 16kB 
+l1i_size 64kB 
+l2_size 1MB 
+l1d_assoc 2 
+l1i_assoc 2 
+l2_assoc 4 
+cacheline_size 32
+CPI 1.2253596
+DMISS:26734
+l1d_size 16kB 
+l1i_size 64kB 
+l2_size 1MB 
+l1d_assoc 2 
+l1i_assoc 2 
+l2_assoc 4 
+cacheline_size 64
+CPI 1.2253596
+DMISS:26734
+l1d_size 16kB 
+l1i_size 64kB 
+l2_size 1MB 
+l1d_assoc 2 
+l1i_assoc 2 
+l2_assoc 4 
+cacheline_size 128
+CPI 1.2253596
+DMISS:19031
+l1d_size 16kB 
+l1i_size 64kB 
+l2_size 1MB 
+l1d_assoc 4 
+l1i_assoc 4 
+l2_assoc 4 
+cacheline_size 32
+CPI 1.215566
+DMISS:19031
+l1d_size 16kB 
+l1i_size 64kB 
+l2_size 1MB 
+l1d_assoc 4 
+l1i_assoc 4 
+l2_assoc 4 
+cacheline_size 64
+CPI 1.215566
+DMISS:19031
+l1d_size 16kB 
+l1i_size 64kB 
+l2_size 1MB 
+l1d_assoc 4 
+l1i_assoc 4 
+l2_assoc 4 
+cacheline_size 128
+CPI 1.215566
+DMISS:18989
+l1d_size 16kB 
+l1i_size 64kB 
+l2_size 1MB 
+l1d_assoc 8 
+l1i_assoc 8 
+l2_assoc 4 
+cacheline_size 32
+CPI 1.2155156
+DMISS:18989
+l1d_size 16kB 
+l1i_size 64kB 
+l2_size 1MB 
+l1d_assoc 8 
+l1i_assoc 8 
+l2_assoc 4 
+cacheline_size 64
+CPI 1.2155156
+DMISS:18989
+l1d_size 16kB 
+l1i_size 64kB 
+l2_size 1MB 
+l1d_assoc 8 
+l1i_assoc 8 
+l2_assoc 4 
+cacheline_size 128
+CPI 1.2155156
+DMISS:49809
+l1d_size 16kB 
+l1i_size 128kB 
+l2_size 1MB 
+l1d_assoc 1 
+l1i_assoc 1 
+l2_assoc 4 
+cacheline_size 32
+CPI 1.2533096
+DMISS:49809
+l1d_size 16kB 
+l1i_size 128kB 
+l2_size 1MB 
+l1d_assoc 1 
+l1i_assoc 1 
+l2_assoc 4 
+cacheline_size 64
+CPI 1.2533096
+DMISS:49809
+l1d_size 16kB 
+l1i_size 128kB 
+l2_size 1MB 
+l1d_assoc 1 
+l1i_assoc 1 
+l2_assoc 4 
+cacheline_size 128
+CPI 1.2533096
+DMISS:26734
+l1d_size 16kB 
+l1i_size 128kB 
+l2_size 1MB 
+l1d_assoc 2 
+l1i_assoc 2 
+l2_assoc 4 
+cacheline_size 32
+CPI 1.2253596
+DMISS:26734
+l1d_size 16kB 
+l1i_size 128kB 
+l2_size 1MB 
+l1d_assoc 2 
+l1i_assoc 2 
+l2_assoc 4 
+cacheline_size 64
+CPI 1.2253596
+DMISS:26734
+l1d_size 16kB 
+l1i_size 128kB 
+l2_size 1MB 
+l1d_assoc 2 
+l1i_assoc 2 
+l2_assoc 4 
+cacheline_size 128
+CPI 1.2253596
+DMISS:19031
+l1d_size 16kB 
+l1i_size 128kB 
+l2_size 1MB 
+l1d_assoc 4 
+l1i_assoc 4 
+l2_assoc 4 
+cacheline_size 32
+CPI 1.215566
+DMISS:19031
+l1d_size 16kB 
+l1i_size 128kB 
+l2_size 1MB 
+l1d_assoc 4 
+l1i_assoc 4 
+l2_assoc 4 
+cacheline_size 64
+CPI 1.215566
+DMISS:19031
+l1d_size 16kB 
+l1i_size 128kB 
+l2_size 1MB 
+l1d_assoc 4 
+l1i_assoc 4 
+l2_assoc 4 
+cacheline_size 128
+CPI 1.215566
+DMISS:18989
+l1d_size 16kB 
+l1i_size 128kB 
+l2_size 1MB 
+l1d_assoc 8 
+l1i_assoc 8 
+l2_assoc 4 
+cacheline_size 32
+CPI 1.2155156
+DMISS:18989
+l1d_size 16kB 
+l1i_size 128kB 
+l2_size 1MB 
+l1d_assoc 8 
+l1i_assoc 8 
+l2_assoc 4 
+cacheline_size 64
+CPI 1.2155156
+DMISS:18989
+l1d_size 16kB 
+l1i_size 128kB 
+l2_size 1MB 
+l1d_assoc 8 
+l1i_assoc 8 
+l2_assoc 4 
+cacheline_size 128
+CPI 1.2155156
+DMISS:34911
+l1d_size 32kB 
+l1i_size 16kB 
+l2_size 1MB 
+l1d_assoc 1 
+l1i_assoc 1 
+l2_assoc 4 
+cacheline_size 32
+CPI 1.2356364
+DMISS:34911
+l1d_size 32kB 
+l1i_size 16kB 
+l2_size 1MB 
+l1d_assoc 1 
+l1i_assoc 1 
+l2_assoc 4 
+cacheline_size 64
+CPI 1.2356364
+DMISS:34911
+l1d_size 32kB 
+l1i_size 16kB 
+l2_size 1MB 
+l1d_assoc 1 
+l1i_assoc 1 
+l2_assoc 4 
+cacheline_size 128
+CPI 1.2356376
+DMISS:19440
+l1d_size 32kB 
+l1i_size 16kB 
+l2_size 1MB 
+l1d_assoc 2 
+l1i_assoc 2 
+l2_assoc 4 
+cacheline_size 32
+CPI 1.2166212
+DMISS:19440
+l1d_size 32kB 
+l1i_size 16kB 
+l2_size 1MB 
+l1d_assoc 2 
+l1i_assoc 2 
+l2_assoc 4 
+cacheline_size 64
+CPI 1.2166212
+DMISS:19440
+l1d_size 32kB 
+l1i_size 16kB 
+l2_size 1MB 
+l1d_assoc 2 
+l1i_assoc 2 
+l2_assoc 4 
+cacheline_size 128
+CPI 1.2166224
+DMISS:19006
+l1d_size 32kB 
+l1i_size 16kB 
+l2_size 1MB 
+l1d_assoc 4 
+l1i_assoc 4 
+l2_assoc 4 
+cacheline_size 32
+CPI 1.2155504
+DMISS:19006
+l1d_size 32kB 
+l1i_size 16kB 
+l2_size 1MB 
+l1d_assoc 4 
+l1i_assoc 4 
+l2_assoc 4 
+cacheline_size 64
+CPI 1.2155504
+DMISS:19006
+l1d_size 32kB 
+l1i_size 16kB 
+l2_size 1MB 
+l1d_assoc 4 
+l1i_assoc 4 
+l2_assoc 4 
+cacheline_size 128
+CPI 1.2155516
+DMISS:18988
+l1d_size 32kB 
+l1i_size 16kB 
+l2_size 1MB 
+l1d_assoc 8 
+l1i_assoc 8 
+l2_assoc 4 
+cacheline_size 32
+CPI 1.2155288
+DMISS:18988
+l1d_size 32kB 
+l1i_size 16kB 
+l2_size 1MB 
+l1d_assoc 8 
+l1i_assoc 8 
+l2_assoc 4 
+cacheline_size 64
+CPI 1.2155288
+DMISS:18988
+l1d_size 32kB 
+l1i_size 16kB 
+l2_size 1MB 
+l1d_assoc 8 
+l1i_assoc 8 
+l2_assoc 4 
+cacheline_size 128
+CPI 1.21553
+DMISS:34911
+l1d_size 32kB 
+l1i_size 32kB 
+l2_size 1MB 
+l1d_assoc 1 
+l1i_assoc 1 
+l2_assoc 4 
+cacheline_size 32
+CPI 1.235622
+DMISS:34911
+l1d_size 32kB 
+l1i_size 32kB 
+l2_size 1MB 
+l1d_assoc 1 
+l1i_assoc 1 
+l2_assoc 4 
+cacheline_size 64
+CPI 1.235622
+DMISS:34911
+l1d_size 32kB 
+l1i_size 32kB 
+l2_size 1MB 
+l1d_assoc 1 
+l1i_assoc 1 
+l2_assoc 4 
+cacheline_size 128
+CPI 1.235622
+DMISS:19440
+l1d_size 32kB 
+l1i_size 32kB 
+l2_size 1MB 
+l1d_assoc 2 
+l1i_assoc 2 
+l2_assoc 4 
+cacheline_size 32
+CPI 1.2166068
+DMISS:19440
+l1d_size 32kB 
+l1i_size 32kB 
+l2_size 1MB 
+l1d_assoc 2 
+l1i_assoc 2 
+l2_assoc 4 
+cacheline_size 64
+CPI 1.2166068
+DMISS:19440
+l1d_size 32kB 
+l1i_size 32kB 
+l2_size 1MB 
+l1d_assoc 2 
+l1i_assoc 2 
+l2_assoc 4 
+cacheline_size 128
+CPI 1.2166068
+DMISS:19006
+l1d_size 32kB 
+l1i_size 32kB 
+l2_size 1MB 
+l1d_assoc 4 
+l1i_assoc 4 
+l2_assoc 4 
+cacheline_size 32
+CPI 1.215536
+DMISS:19006
+l1d_size 32kB 
+l1i_size 32kB 
+l2_size 1MB 
+l1d_assoc 4 
+l1i_assoc 4 
+l2_assoc 4 
+cacheline_size 64
+CPI 1.215536
+DMISS:19006
+l1d_size 32kB 
+l1i_size 32kB 
+l2_size 1MB 
+l1d_assoc 4 
+l1i_assoc 4 
+l2_assoc 4 
+cacheline_size 128
+CPI 1.215536
+DMISS:18988
+l1d_size 32kB 
+l1i_size 32kB 
+l2_size 1MB 
+l1d_assoc 8 
+l1i_assoc 8 
+l2_assoc 4 
+cacheline_size 32
+CPI 1.2155144
+DMISS:18988
+l1d_size 32kB 
+l1i_size 32kB 
+l2_size 1MB 
+l1d_assoc 8 
+l1i_assoc 8 
+l2_assoc 4 
+cacheline_size 64
+CPI 1.2155144
+DMISS:18988
+l1d_size 32kB 
+l1i_size 32kB 
+l2_size 1MB 
+l1d_assoc 8 
+l1i_assoc 8 
+l2_assoc 4 
+cacheline_size 128
+CPI 1.2155144
+DMISS:34911
+l1d_size 32kB 
+l1i_size 64kB 
+l2_size 1MB 
+l1d_assoc 1 
+l1i_assoc 1 
+l2_assoc 4 
+cacheline_size 32
+CPI 1.235622
+DMISS:34911
+l1d_size 32kB 
+l1i_size 64kB 
+l2_size 1MB 
+l1d_assoc 1 
+l1i_assoc 1 
+l2_assoc 4 
+cacheline_size 64
+CPI 1.235622
+DMISS:34911
+l1d_size 32kB 
+l1i_size 64kB 
+l2_size 1MB 
+l1d_assoc 1 
+l1i_assoc 1 
+l2_assoc 4 
+cacheline_size 128
+CPI 1.235622
+DMISS:19440
+l1d_size 32kB 
+l1i_size 64kB 
+l2_size 1MB 
+l1d_assoc 2 
+l1i_assoc 2 
+l2_assoc 4 
+cacheline_size 32
+CPI 1.2166068
+DMISS:19440
+l1d_size 32kB 
+l1i_size 64kB 
+l2_size 1MB 
+l1d_assoc 2 
+l1i_assoc 2 
+l2_assoc 4 
+cacheline_size 64
+CPI 1.2166068
+DMISS:19440
+l1d_size 32kB 
+l1i_size 64kB 
+l2_size 1MB 
+l1d_assoc 2 
+l1i_assoc 2 
+l2_assoc 4 
+cacheline_size 128
+CPI 1.2166068
+DMISS:19006
+l1d_size 32kB 
+l1i_size 64kB 
+l2_size 1MB 
+l1d_assoc 4 
+l1i_assoc 4 
+l2_assoc 4 
+cacheline_size 32
+CPI 1.215536
+DMISS:19006
+l1d_size 32kB 
+l1i_size 64kB 
+l2_size 1MB 
+l1d_assoc 4 
+l1i_assoc 4 
+l2_assoc 4 
+cacheline_size 64
+CPI 1.215536
+DMISS:19006
+l1d_size 32kB 
+l1i_size 64kB 
+l2_size 1MB 
+l1d_assoc 4 
+l1i_assoc 4 
+l2_assoc 4 
+cacheline_size 128
+CPI 1.215536
+DMISS:18988
+l1d_size 32kB 
+l1i_size 64kB 
+l2_size 1MB 
+l1d_assoc 8 
+l1i_assoc 8 
+l2_assoc 4 
+cacheline_size 32
+CPI 1.2155144
+DMISS:18988
+l1d_size 32kB 
+l1i_size 64kB 
+l2_size 1MB 
+l1d_assoc 8 
+l1i_assoc 8 
+l2_assoc 4 
+cacheline_size 64
+CPI 1.2155144
+DMISS:18988
+l1d_size 32kB 
+l1i_size 64kB 
+l2_size 1MB 
+l1d_assoc 8 
+l1i_assoc 8 
+l2_assoc 4 
+cacheline_size 128
+CPI 1.2155144
+DMISS:34911
+l1d_size 32kB 
+l1i_size 128kB 
+l2_size 1MB 
+l1d_assoc 1 
+l1i_assoc 1 
+l2_assoc 4 
+cacheline_size 32
+CPI 1.235622
+DMISS:34911
+l1d_size 32kB 
+l1i_size 128kB 
+l2_size 1MB 
+l1d_assoc 1 
+l1i_assoc 1 
+l2_assoc 4 
+cacheline_size 64
+CPI 1.235622
+DMISS:34911
+l1d_size 32kB 
+l1i_size 128kB 
+l2_size 1MB 
+l1d_assoc 1 
+l1i_assoc 1 
+l2_assoc 4 
+cacheline_size 128
+CPI 1.235622
+DMISS:19440
+l1d_size 32kB 
+l1i_size 128kB 
+l2_size 1MB 
+l1d_assoc 2 
+l1i_assoc 2 
+l2_assoc 4 
+cacheline_size 32
+CPI 1.2166068
+DMISS:19440
+l1d_size 32kB 
+l1i_size 128kB 
+l2_size 1MB 
+l1d_assoc 2 
+l1i_assoc 2 
+l2_assoc 4 
+cacheline_size 64
+CPI 1.2166068
+DMISS:19440
+l1d_size 32kB 
+l1i_size 128kB 
+l2_size 1MB 
+l1d_assoc 2 
+l1i_assoc 2 
+l2_assoc 4 
+cacheline_size 128
+CPI 1.2166068
+DMISS:19006
+l1d_size 32kB 
+l1i_size 128kB 
+l2_size 1MB 
+l1d_assoc 4 
+l1i_assoc 4 
+l2_assoc 4 
+cacheline_size 32
+CPI 1.215536
+DMISS:19006
+l1d_size 32kB 
+l1i_size 128kB 
+l2_size 1MB 
+l1d_assoc 4 
+l1i_assoc 4 
+l2_assoc 4 
+cacheline_size 64
+CPI 1.215536
+DMISS:19006
+l1d_size 32kB 
+l1i_size 128kB 
+l2_size 1MB 
+l1d_assoc 4 
+l1i_assoc 4 
+l2_assoc 4 
+cacheline_size 128
+CPI 1.215536
+DMISS:18988
+l1d_size 32kB 
+l1i_size 128kB 
+l2_size 1MB 
+l1d_assoc 8 
+l1i_assoc 8 
+l2_assoc 4 
+cacheline_size 32
+CPI 1.2155144
+DMISS:18988
+l1d_size 32kB 
+l1i_size 128kB 
+l2_size 1MB 
+l1d_assoc 8 
+l1i_assoc 8 
+l2_assoc 4 
+cacheline_size 64
+CPI 1.2155144
+DMISS:18988
+l1d_size 32kB 
+l1i_size 128kB 
+l2_size 1MB 
+l1d_assoc 8 
+l1i_assoc 8 
+l2_assoc 4 
+cacheline_size 128
+CPI 1.2155144
+DMISS:20589
+l1d_size 64kB 
+l1i_size 16kB 
+l2_size 1MB 
+l1d_assoc 1 
+l1i_assoc 1 
+l2_assoc 4 
+cacheline_size 32
+CPI 1.21845
+DMISS:20589
+l1d_size 64kB 
+l1i_size 16kB 
+l2_size 1MB 
+l1d_assoc 1 
+l1i_assoc 1 
+l2_assoc 4 
+cacheline_size 64
+CPI 1.21845
+DMISS:20589
+l1d_size 64kB 
+l1i_size 16kB 
+l2_size 1MB 
+l1d_assoc 1 
+l1i_assoc 1 
+l2_assoc 4 
+cacheline_size 128
+CPI 1.2184512
+DMISS:19070
+l1d_size 64kB 
+l1i_size 16kB 
+l2_size 1MB 
+l1d_assoc 2 
+l1i_assoc 2 
+l2_assoc 4 
+cacheline_size 32
+CPI 1.2163772
+DMISS:19070
+l1d_size 64kB 
+l1i_size 16kB 
+l2_size 1MB 
+l1d_assoc 2 
+l1i_assoc 2 
+l2_assoc 4 
+cacheline_size 64
+CPI 1.2163772
+DMISS:19070
+l1d_size 64kB 
+l1i_size 16kB 
+l2_size 1MB 
+l1d_assoc 2 
+l1i_assoc 2 
+l2_assoc 4 
+cacheline_size 128
+CPI 1.2163784
+DMISS:18988
+l1d_size 64kB 
+l1i_size 16kB 
+l2_size 1MB 
+l1d_assoc 4 
+l1i_assoc 4 
+l2_assoc 4 
+cacheline_size 32
+CPI 1.2155288
+DMISS:18988
+l1d_size 64kB 
+l1i_size 16kB 
+l2_size 1MB 
+l1d_assoc 4 
+l1i_assoc 4 
+l2_assoc 4 
+cacheline_size 64
+CPI 1.2155288
+DMISS:18988
+l1d_size 64kB 
+l1i_size 16kB 
+l2_size 1MB 
+l1d_assoc 4 
+l1i_assoc 4 
+l2_assoc 4 
+cacheline_size 128
+CPI 1.21553
+DMISS:18988
+l1d_size 64kB 
+l1i_size 16kB 
+l2_size 1MB 
+l1d_assoc 8 
+l1i_assoc 8 
+l2_assoc 4 
+cacheline_size 32
+CPI 1.2155288
+DMISS:18988
+l1d_size 64kB 
+l1i_size 16kB 
+l2_size 1MB 
+l1d_assoc 8 
+l1i_assoc 8 
+l2_assoc 4 
+cacheline_size 64
+CPI 1.2155288
+DMISS:18988
+l1d_size 64kB 
+l1i_size 16kB 
+l2_size 1MB 
+l1d_assoc 8 
+l1i_assoc 8 
+l2_assoc 4 
+cacheline_size 128
+CPI 1.21553
+DMISS:20589
+l1d_size 64kB 
+l1i_size 32kB 
+l2_size 1MB 
+l1d_assoc 1 
+l1i_assoc 1 
+l2_assoc 4 
+cacheline_size 32
+CPI 1.2184356
+DMISS:20589
+l1d_size 64kB 
+l1i_size 32kB 
+l2_size 1MB 
+l1d_assoc 1 
+l1i_assoc 1 
+l2_assoc 4 
+cacheline_size 64
+CPI 1.2184356
+DMISS:20589
+l1d_size 64kB 
+l1i_size 32kB 
+l2_size 1MB 
+l1d_assoc 1 
+l1i_assoc 1 
+l2_assoc 4 
+cacheline_size 128
+CPI 1.2184356
+DMISS:19070
+l1d_size 64kB 
+l1i_size 32kB 
+l2_size 1MB 
+l1d_assoc 2 
+l1i_assoc 2 
+l2_assoc 4 
+cacheline_size 32
+CPI 1.2163628
+DMISS:19070
+l1d_size 64kB 
+l1i_size 32kB 
+l2_size 1MB 
+l1d_assoc 2 
+l1i_assoc 2 
+l2_assoc 4 
+cacheline_size 64
+CPI 1.2163628
+DMISS:19070
+l1d_size 64kB 
+l1i_size 32kB 
+l2_size 1MB 
+l1d_assoc 2 
+l1i_assoc 2 
+l2_assoc 4 
+cacheline_size 128
+CPI 1.2163628
+DMISS:18988
+l1d_size 64kB 
+l1i_size 32kB 
+l2_size 1MB 
+l1d_assoc 4 
+l1i_assoc 4 
+l2_assoc 4 
+cacheline_size 32
+CPI 1.2155144
+DMISS:18988
+l1d_size 64kB 
+l1i_size 32kB 
+l2_size 1MB 
+l1d_assoc 4 
+l1i_assoc 4 
+l2_assoc 4 
+cacheline_size 64
+CPI 1.2155144
+DMISS:18988
+l1d_size 64kB 
+l1i_size 32kB 
+l2_size 1MB 
+l1d_assoc 4 
+l1i_assoc 4 
+l2_assoc 4 
+cacheline_size 128
+CPI 1.2155144
+DMISS:18988
+l1d_size 64kB 
+l1i_size 32kB 
+l2_size 1MB 
+l1d_assoc 8 
+l1i_assoc 8 
+l2_assoc 4 
+cacheline_size 32
+CPI 1.2155144
+DMISS:18988
+l1d_size 64kB 
+l1i_size 32kB 
+l2_size 1MB 
+l1d_assoc 8 
+l1i_assoc 8 
+l2_assoc 4 
+cacheline_size 64
+CPI 1.2155144
+DMISS:18988
+l1d_size 64kB 
+l1i_size 32kB 
+l2_size 1MB 
+l1d_assoc 8 
+l1i_assoc 8 
+l2_assoc 4 
+cacheline_size 128
+CPI 1.2155144
+DMISS:20589
+l1d_size 64kB 
+l1i_size 64kB 
+l2_size 1MB 
+l1d_assoc 1 
+l1i_assoc 1 
+l2_assoc 4 
+cacheline_size 32
+CPI 1.2184356
+DMISS:20589
+l1d_size 64kB 
+l1i_size 64kB 
+l2_size 1MB 
+l1d_assoc 1 
+l1i_assoc 1 
+l2_assoc 4 
+cacheline_size 64
+CPI 1.2184356
+DMISS:20589
+l1d_size 64kB 
+l1i_size 64kB 
+l2_size 1MB 
+l1d_assoc 1 
+l1i_assoc 1 
+l2_assoc 4 
+cacheline_size 128
+CPI 1.2184356
+DMISS:19070
+l1d_size 64kB 
+l1i_size 64kB 
+l2_size 1MB 
+l1d_assoc 2 
+l1i_assoc 2 
+l2_assoc 4 
+cacheline_size 32
+CPI 1.2163628
+DMISS:19070
+l1d_size 64kB 
+l1i_size 64kB 
+l2_size 1MB 
+l1d_assoc 2 
+l1i_assoc 2 
+l2_assoc 4 
+cacheline_size 64
+CPI 1.2163628
+DMISS:19070
+l1d_size 64kB 
+l1i_size 64kB 
+l2_size 1MB 
+l1d_assoc 2 
+l1i_assoc 2 
+l2_assoc 4 
+cacheline_size 128
+CPI 1.2163628
+DMISS:18988
+l1d_size 64kB 
+l1i_size 64kB 
+l2_size 1MB 
+l1d_assoc 4 
+l1i_assoc 4 
+l2_assoc 4 
+cacheline_size 32
+CPI 1.2155144
+DMISS:18988
+l1d_size 64kB 
+l1i_size 64kB 
+l2_size 1MB 
+l1d_assoc 4 
+l1i_assoc 4 
+l2_assoc 4 
+cacheline_size 64
+CPI 1.2155144
+DMISS:18988
+l1d_size 64kB 
+l1i_size 64kB 
+l2_size 1MB 
+l1d_assoc 4 
+l1i_assoc 4 
+l2_assoc 4 
+cacheline_size 128
+CPI 1.2155144
+DMISS:18988
+l1d_size 64kB 
+l1i_size 64kB 
+l2_size 1MB 
+l1d_assoc 8 
+l1i_assoc 8 
+l2_assoc 4 
+cacheline_size 32
+CPI 1.2155144
+DMISS:18988
+l1d_size 64kB 
+l1i_size 64kB 
+l2_size 1MB 
+l1d_assoc 8 
+l1i_assoc 8 
+l2_assoc 4 
+cacheline_size 64
+CPI 1.2155144
+DMISS:18988
+l1d_size 64kB 
+l1i_size 64kB 
+l2_size 1MB 
+l1d_assoc 8 
+l1i_assoc 8 
+l2_assoc 4 
+cacheline_size 128
+CPI 1.2155144
+DMISS:20589
+l1d_size 64kB 
+l1i_size 128kB 
+l2_size 1MB 
+l1d_assoc 1 
+l1i_assoc 1 
+l2_assoc 4 
+cacheline_size 32
+CPI 1.2184356
+DMISS:20589
+l1d_size 64kB 
+l1i_size 128kB 
+l2_size 1MB 
+l1d_assoc 1 
+l1i_assoc 1 
+l2_assoc 4 
+cacheline_size 64
+CPI 1.2184356
+DMISS:20589
+l1d_size 64kB 
+l1i_size 128kB 
+l2_size 1MB 
+l1d_assoc 1 
+l1i_assoc 1 
+l2_assoc 4 
+cacheline_size 128
+CPI 1.2184356
+DMISS:19070
+l1d_size 64kB 
+l1i_size 128kB 
+l2_size 1MB 
+l1d_assoc 2 
+l1i_assoc 2 
+l2_assoc 4 
+cacheline_size 32
+CPI 1.2163628
+DMISS:19070
+l1d_size 64kB 
+l1i_size 128kB 
+l2_size 1MB 
+l1d_assoc 2 
+l1i_assoc 2 
+l2_assoc 4 
+cacheline_size 64
+CPI 1.2163628
+DMISS:19070
+l1d_size 64kB 
+l1i_size 128kB 
+l2_size 1MB 
+l1d_assoc 2 
+l1i_assoc 2 
+l2_assoc 4 
+cacheline_size 128
+CPI 1.2163628
+DMISS:18988
+l1d_size 64kB 
+l1i_size 128kB 
+l2_size 1MB 
+l1d_assoc 4 
+l1i_assoc 4 
+l2_assoc 4 
+cacheline_size 32
+CPI 1.2155144
+DMISS:18988
+l1d_size 64kB 
+l1i_size 128kB 
+l2_size 1MB 
+l1d_assoc 4 
+l1i_assoc 4 
+l2_assoc 4 
+cacheline_size 64
+CPI 1.2155144
+DMISS:18988
+l1d_size 64kB 
+l1i_size 128kB 
+l2_size 1MB 
+l1d_assoc 4 
+l1i_assoc 4 
+l2_assoc 4 
+cacheline_size 128
+CPI 1.2155144
+DMISS:18988
+l1d_size 64kB 
+l1i_size 128kB 
+l2_size 1MB 
+l1d_assoc 8 
+l1i_assoc 8 
+l2_assoc 4 
+cacheline_size 32
+CPI 1.2155144
+DMISS:18988
+l1d_size 64kB 
+l1i_size 128kB 
+l2_size 1MB 
+l1d_assoc 8 
+l1i_assoc 8 
+l2_assoc 4 
+cacheline_size 64
+CPI 1.2155144
+DMISS:18988
+l1d_size 64kB 
+l1i_size 128kB 
+l2_size 1MB 
+l1d_assoc 8 
+l1i_assoc 8 
+l2_assoc 4 
+cacheline_size 128
+CPI 1.2155144
+DMISS:19709
+l1d_size 128kB 
+l1i_size 16kB 
+l2_size 1MB 
+l1d_assoc 1 
+l1i_assoc 1 
+l2_assoc 4 
+cacheline_size 32
+CPI 1.217984
+DMISS:19709
+l1d_size 128kB 
+l1i_size 16kB 
+l2_size 1MB 
+l1d_assoc 1 
+l1i_assoc 1 
+l2_assoc 4 
+cacheline_size 64
+CPI 1.217984
+DMISS:19709
+l1d_size 128kB 
+l1i_size 16kB 
+l2_size 1MB 
+l1d_assoc 1 
+l1i_assoc 1 
+l2_assoc 4 
+cacheline_size 128
+CPI 1.2179852
+DMISS:18990
+l1d_size 128kB 
+l1i_size 16kB 
+l2_size 1MB 
+l1d_assoc 2 
+l1i_assoc 2 
+l2_assoc 4 
+cacheline_size 32
+CPI 1.2164812
+DMISS:18990
+l1d_size 128kB 
+l1i_size 16kB 
+l2_size 1MB 
+l1d_assoc 2 
+l1i_assoc 2 
+l2_assoc 4 
+cacheline_size 64
+CPI 1.2164812
+DMISS:18990
+l1d_size 128kB 
+l1i_size 16kB 
+l2_size 1MB 
+l1d_assoc 2 
+l1i_assoc 2 
+l2_assoc 4 
+cacheline_size 128
+CPI 1.2164824
+DMISS:18988
+l1d_size 128kB 
+l1i_size 16kB 
+l2_size 1MB 
+l1d_assoc 4 
+l1i_assoc 4 
+l2_assoc 4 
+cacheline_size 32
+CPI 1.2155288
+DMISS:18988
+l1d_size 128kB 
+l1i_size 16kB 
+l2_size 1MB 
+l1d_assoc 4 
+l1i_assoc 4 
+l2_assoc 4 
+cacheline_size 64
+CPI 1.2155288
+DMISS:18988
+l1d_size 128kB 
+l1i_size 16kB 
+l2_size 1MB 
+l1d_assoc 4 
+l1i_assoc 4 
+l2_assoc 4 
+cacheline_size 128
+CPI 1.21553
+DMISS:18988
+l1d_size 128kB 
+l1i_size 16kB 
+l2_size 1MB 
+l1d_assoc 8 
+l1i_assoc 8 
+l2_assoc 4 
+cacheline_size 32
+CPI 1.2155288
+DMISS:18988
+l1d_size 128kB 
+l1i_size 16kB 
+l2_size 1MB 
+l1d_assoc 8 
+l1i_assoc 8 
+l2_assoc 4 
+cacheline_size 64
+CPI 1.2155288
+DMISS:18988
+l1d_size 128kB 
+l1i_size 16kB 
+l2_size 1MB 
+l1d_assoc 8 
+l1i_assoc 8 
+l2_assoc 4 
+cacheline_size 128
+CPI 1.21553
+DMISS:19709
+l1d_size 128kB 
+l1i_size 32kB 
+l2_size 1MB 
+l1d_assoc 1 
+l1i_assoc 1 
+l2_assoc 4 
+cacheline_size 32
+CPI 1.2179696
+DMISS:19709
+l1d_size 128kB 
+l1i_size 32kB 
+l2_size 1MB 
+l1d_assoc 1 
+l1i_assoc 1 
+l2_assoc 4 
+cacheline_size 64
+CPI 1.2179696
+DMISS:19709
+l1d_size 128kB 
+l1i_size 32kB 
+l2_size 1MB 
+l1d_assoc 1 
+l1i_assoc 1 
+l2_assoc 4 
+cacheline_size 128
+CPI 1.2179696
+DMISS:18990
+l1d_size 128kB 
+l1i_size 32kB 
+l2_size 1MB 
+l1d_assoc 2 
+l1i_assoc 2 
+l2_assoc 4 
+cacheline_size 32
+CPI 1.2164668
+DMISS:18990
+l1d_size 128kB 
+l1i_size 32kB 
+l2_size 1MB 
+l1d_assoc 2 
+l1i_assoc 2 
+l2_assoc 4 
+cacheline_size 64
+CPI 1.2164668
+DMISS:18990
+l1d_size 128kB 
+l1i_size 32kB 
+l2_size 1MB 
+l1d_assoc 2 
+l1i_assoc 2 
+l2_assoc 4 
+cacheline_size 128
+CPI 1.2164668
+DMISS:18988
+l1d_size 128kB 
+l1i_size 32kB 
+l2_size 1MB 
+l1d_assoc 4 
+l1i_assoc 4 
+l2_assoc 4 
+cacheline_size 32
+CPI 1.2155144
+DMISS:18988
+l1d_size 128kB 
+l1i_size 32kB 
+l2_size 1MB 
+l1d_assoc 4 
+l1i_assoc 4 
+l2_assoc 4 
+cacheline_size 64
+CPI 1.2155144
+DMISS:18988
+l1d_size 128kB 
+l1i_size 32kB 
+l2_size 1MB 
+l1d_assoc 4 
+l1i_assoc 4 
+l2_assoc 4 
+cacheline_size 128
+CPI 1.2155144
+DMISS:18988
+l1d_size 128kB 
+l1i_size 32kB 
+l2_size 1MB 
+l1d_assoc 8 
+l1i_assoc 8 
+l2_assoc 4 
+cacheline_size 32
+CPI 1.2155144
+DMISS:18988
+l1d_size 128kB 
+l1i_size 32kB 
+l2_size 1MB 
+l1d_assoc 8 
+l1i_assoc 8 
+l2_assoc 4 
+cacheline_size 64
+CPI 1.2155144
+DMISS:18988
+l1d_size 128kB 
+l1i_size 32kB 
+l2_size 1MB 
+l1d_assoc 8 
+l1i_assoc 8 
+l2_assoc 4 
+cacheline_size 128
+CPI 1.2155144
+DMISS:19709
+l1d_size 128kB 
+l1i_size 64kB 
+l2_size 1MB 
+l1d_assoc 1 
+l1i_assoc 1 
+l2_assoc 4 
+cacheline_size 32
+CPI 1.2179696
+DMISS:19709
+l1d_size 128kB 
+l1i_size 64kB 
+l2_size 1MB 
+l1d_assoc 1 
+l1i_assoc 1 
+l2_assoc 4 
+cacheline_size 64
+CPI 1.2179696
+DMISS:19709
+l1d_size 128kB 
+l1i_size 64kB 
+l2_size 1MB 
+l1d_assoc 1 
+l1i_assoc 1 
+l2_assoc 4 
+cacheline_size 128
+CPI 1.2179696
+DMISS:18990
+l1d_size 128kB 
+l1i_size 64kB 
+l2_size 1MB 
+l1d_assoc 2 
+l1i_assoc 2 
+l2_assoc 4 
+cacheline_size 32
+CPI 1.2164668
+DMISS:18990
+l1d_size 128kB 
+l1i_size 64kB 
+l2_size 1MB 
+l1d_assoc 2 
+l1i_assoc 2 
+l2_assoc 4 
+cacheline_size 64
+CPI 1.2164668
+DMISS:18990
+l1d_size 128kB 
+l1i_size 64kB 
+l2_size 1MB 
+l1d_assoc 2 
+l1i_assoc 2 
+l2_assoc 4 
+cacheline_size 128
+CPI 1.2164668
+DMISS:18988
+l1d_size 128kB 
+l1i_size 64kB 
+l2_size 1MB 
+l1d_assoc 4 
+l1i_assoc 4 
+l2_assoc 4 
+cacheline_size 32
+CPI 1.2155144
+DMISS:18988
+l1d_size 128kB 
+l1i_size 64kB 
+l2_size 1MB 
+l1d_assoc 4 
+l1i_assoc 4 
+l2_assoc 4 
+cacheline_size 64
+CPI 1.2155144
+DMISS:18988
+l1d_size 128kB 
+l1i_size 64kB 
+l2_size 1MB 
+l1d_assoc 4 
+l1i_assoc 4 
+l2_assoc 4 
+cacheline_size 128
+CPI 1.2155144
+DMISS:18988
+l1d_size 128kB 
+l1i_size 64kB 
+l2_size 1MB 
+l1d_assoc 8 
+l1i_assoc 8 
+l2_assoc 4 
+cacheline_size 32
+CPI 1.2155144
+DMISS:18988
+l1d_size 128kB 
+l1i_size 64kB 
+l2_size 1MB 
+l1d_assoc 8 
+l1i_assoc 8 
+l2_assoc 4 
+cacheline_size 64
+CPI 1.2155144
+DMISS:18988
+l1d_size 128kB 
+l1i_size 64kB 
+l2_size 1MB 
+l1d_assoc 8 
+l1i_assoc 8 
+l2_assoc 4 
+cacheline_size 128
+CPI 1.2155144
+DMISS:19709
+l1d_size 128kB 
+l1i_size 128kB 
+l2_size 1MB 
+l1d_assoc 1 
+l1i_assoc 1 
+l2_assoc 4 
+cacheline_size 32
+CPI 1.2179696
+DMISS:19709
+l1d_size 128kB 
+l1i_size 128kB 
+l2_size 1MB 
+l1d_assoc 1 
+l1i_assoc 1 
+l2_assoc 4 
+cacheline_size 64
+CPI 1.2179696
+DMISS:19709
+l1d_size 128kB 
+l1i_size 128kB 
+l2_size 1MB 
+l1d_assoc 1 
+l1i_assoc 1 
+l2_assoc 4 
+cacheline_size 128
+CPI 1.2179696
+DMISS:18990
+l1d_size 128kB 
+l1i_size 128kB 
+l2_size 1MB 
+l1d_assoc 2 
+l1i_assoc 2 
+l2_assoc 4 
+cacheline_size 32
+CPI 1.2164668
+DMISS:18990
+l1d_size 128kB 
+l1i_size 128kB 
+l2_size 1MB 
+l1d_assoc 2 
+l1i_assoc 2 
+l2_assoc 4 
+cacheline_size 64
+CPI 1.2164668
+DMISS:18990
+l1d_size 128kB 
+l1i_size 128kB 
+l2_size 1MB 
+l1d_assoc 2 
+l1i_assoc 2 
+l2_assoc 4 
+cacheline_size 128
+CPI 1.2164668
+DMISS:18988
+l1d_size 128kB 
+l1i_size 128kB 
+l2_size 1MB 
+l1d_assoc 4 
+l1i_assoc 4 
+l2_assoc 4 
+cacheline_size 32
+CPI 1.2155144
+DMISS:18988
+l1d_size 128kB 
+l1i_size 128kB 
+l2_size 1MB 
+l1d_assoc 4 
+l1i_assoc 4 
+l2_assoc 4 
+cacheline_size 64
+CPI 1.2155144
+DMISS:18988
+l1d_size 128kB 
+l1i_size 128kB 
+l2_size 1MB 
+l1d_assoc 4 
+l1i_assoc 4 
+l2_assoc 4 
+cacheline_size 128
+CPI 1.2155144
+DMISS:18988
+l1d_size 128kB 
+l1i_size 128kB 
+l2_size 1MB 
+l1d_assoc 8 
+l1i_assoc 8 
+l2_assoc 4 
+cacheline_size 32
+CPI 1.2155144
+DMISS:18988
+l1d_size 128kB 
+l1i_size 128kB 
+l2_size 1MB 
+l1d_assoc 8 
+l1i_assoc 8 
+l2_assoc 4 
+cacheline_size 64
+CPI 1.2155144
+DMISS:18988
+l1d_size 128kB 
+l1i_size 128kB 
+l2_size 1MB 
+l1d_assoc 8 
+l1i_assoc 8 
+l2_assoc 4 
+cacheline_size 128
+CPI 1.2155144

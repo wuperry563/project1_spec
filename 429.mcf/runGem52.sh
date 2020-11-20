@@ -6,7 +6,7 @@ time $GEM5_DIR/build/X86/gem5.opt \
 -d ./m5out $GEM5_DIR/configs/example/se.py \
 -c $BENCHMARK \
 -o $ARGUMENT \
--I 500000000 \
+-I 5000000 \
 --cpu-type=TimingSimpleCPU \
 --caches \
 --l2cache \
